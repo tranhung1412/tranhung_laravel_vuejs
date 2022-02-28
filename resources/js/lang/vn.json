@@ -1,0 +1,31 @@
+{
+    "language": [
+        {
+            "name": "Tiếng Việt",
+            "icon": "vn_flag.jpg",
+            "value": "vn"
+        },
+        {
+            "name": "Tiếng Anh",
+            "icon": "en_flag.jpg",
+            "value": "en"
+        }
+    ],
+    "checkout": "Thanh toán",
+    "viewcart": "Xem giở hàng",
+    "product": {
+        "description": "Giới thiệu",
+        "specifications": "thông số kĩ thuật",
+        "customer_review": "Đánh giá của khách hàng",
+        "screen": "Màn hình",
+        "operating_system": "Hệ điều hành",
+        "rear_camera": "Camera sau",
+        "front_camera": "Camera trước",
+        "internal_memory": "Bộ nhớ trong",
+        "battery": "pin",
+        "design": "Thiết kế"
+    },
+    "home": "Trang chủ",
+    "blog": "Tin tức",
+    "contact": "Liên lạc"
+}

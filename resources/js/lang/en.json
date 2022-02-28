@@ -1,0 +1,30 @@
+{
+    "language": [
+        {
+            "name": "Vietnamese",
+            "icon": "vn_flag.jpg",
+            "value": "vn"
+        },
+        {
+            "name": "English",
+            "icon": "en_flag.jpg",
+            "value": "en"
+        }
+    ],
+    "checkout": "Check out",
+    "viewcart": "View cart",
+    "product": {
+        "description": "description",
+        "specifications": "specifications",
+        "customer_review": "customer review",
+        "screen": "screen",
+        "operating_system": "operating system",
+        "rear_camera": "rear camera",
+        "front_camera": "front_camera",
+        "internal_memory": "internal_memory",
+        "battery": "battery",
+        "design": "design"
+    }
+
+
+}

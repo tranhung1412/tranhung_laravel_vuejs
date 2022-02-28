@@ -1,0 +1,8 @@
+
+‡	php:S1192S"lDefine a constant instead of duplicating this literal "TÃªn danh má»¥c pháº£i tá»«  2-255 kÃ½ tá»±" 4 times.(Ô¼Ñ8ı†‰¥–.
+d	php:S1192\"HDefine a constant instead of duplicating this literal "message" 4 times.(ªò†Å8í¡„Æ¡.
+|	php:S14881"aImmediately return this expression instead of assigning it to the temporary variable "$category".(½¦ãH8í¡„Æ¡.
+?php:S125"Remove this commented out code.(½Ğ•ùÿÿÿÿ8í¡„Æ¡.
+ƒ	php:S1192N"gDefine a constant instead of duplicating this literal "required|min:2|max:255|unique:category" 3 times.(ßôòÉ8í¡„Æ¡.
+:php:S125$"Remove this commented out code.(„æš×8˜“»¤–.
+?php:S125"Remove this commented out code.(ı¤ˆûÿÿÿÿ8˜“»¤–.

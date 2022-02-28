@@ -1,0 +1,21 @@
+
+m	php:S1192Ó"XDefine a constant instead of duplicating this literal "Khong tim thay san pham" 7 times.(¿Ò¢)
+_	php:S1192T"JDefine a constant instead of duplicating this literal "idProduct" 4 times.(‚ïŒğ
+[	php:S1192Ó"FDefine a constant instead of duplicating this literal "error" 7 times.(¿Ò¢)
+c	php:S1192A"IDefine a constant instead of duplicating this literal "quantity" 3 times.(£…›ªüÿÿÿÿ
+d	php:S1192A"JDefine a constant instead of duplicating this literal "promotion" 3 times.(£…›ªüÿÿÿÿ
+e	php:S1192A"KDefine a constant instead of duplicating this literal "idCategory" 3 times.(£…›ªüÿÿÿÿ
+3php:S125"Remove this commented out code.(ËÌšÖ
+l	php:S11925"WDefine a constant instead of duplicating this literal "required|min:2|max:255" 3 times.(Şå¥Ü
+C	php:S1481O")Remove this unused "$key" local variable.(…”Á¾ıÿÿÿÿ
+`	php:S1192A"FDefine a constant instead of duplicating this literal "price" 5 times.(£…›ªüÿÿÿÿ
+[	php:S1192"GDefine a constant instead of duplicating this literal "status" 6 times.(¼ÉR
+9php:S125İ"Remove this commented out code.(×Ùˆ°üÿÿÿÿ
+8php:S125J"Remove this commented out code.(µñù¬şÿÿÿÿ
+f	php:S1192A"LDefine a constant instead of duplicating this literal "description" 3 times.(£…›ªüÿÿÿÿ
+D	php:S1481È")Remove this unused "$key" local variable.(‰”ìáøÿÿÿÿ
+]	php:S1192j"HDefine a constant instead of duplicating this literal "product" 6 times.(ò«´Ö
+]	php:S1192W"HDefine a constant instead of duplicating this literal "message" 5 times.(üÚ°·
+2php:S125'"Remove this commented out code.(Ë¬ÔW
+2php:S125u"Remove this commented out code.(ÛíÆj
+D	php:S1481£")Remove this unused "$key" local variable.(ø®Û©øÿÿÿÿ
